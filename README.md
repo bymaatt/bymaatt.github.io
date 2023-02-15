@@ -17,6 +17,6 @@ Uno de los mejores métodos para usar si el sistema no puede usar ninguna técni
 Requiere pocos recursos informáticos
 Las desventajas de usar un cifrado César incluyen:
 
-Uso de estructura simple
-Solo puede proporcionar seguridad mínima a la información
-La frecuencia del patrón de letras proporciona una gran pista para descifrar el mensaje completo.
+- Uso de estructura simple
+- Solo puede proporcionar seguridad mínima a la información
+- La frecuencia del patrón de letras proporciona una gran pista para descifrar el mensaje completo.
