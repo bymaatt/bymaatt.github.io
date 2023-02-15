@@ -11,10 +11,12 @@ En criptografía, un cifrado César se clasifica como un cifrado por sustitució
 
 Las ventajas de usar un cifrado César incluyen:
 
-Uno de los métodos más fáciles de usar en criptografía y puede proporcionar una seguridad mínima a la información.
-Uso de solo una tecla breve en todo el proceso
-Uno de los mejores métodos para usar si el sistema no puede usar ninguna técnica de codificación complicada
-Requiere pocos recursos informáticos
+- Uno de los métodos más fáciles de usar en criptografía y puede proporcionar una seguridad mínima a la información.
+- Uso de solo una tecla breve en todo el proceso
+- Uno de los mejores métodos para usar si el sistema no puede usar ninguna técnica de codificación complicada
+- Requiere pocos recursos informáticos
+
+
 Las desventajas de usar un cifrado César incluyen:
 
 - Uso de estructura simple
